@@ -1,0 +1,4 @@
+Este es un texto
+de ejemplo
+y probaré Bash desde aquíEste es otro texto
+PHP
